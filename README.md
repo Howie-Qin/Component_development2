@@ -9,8 +9,8 @@
   4.组件式开发思想以及编码规范的学习<br/>
   
 ##### 效果图
-  ![](https://github.com/Howie-Qin/Component_development2/Component_development2/imgs/cover.png)  
-  ![](https://github.com/Howie-Qin/Component_development2/Component_development2/imgs/bar.png) 
+  ![](https://github.com/Howie-Qin/Component_development2/blob/master/Component_development2/imgs/cover.png)  
+  ![](https://github.com/Howie-Qin/Component_development2/blob/master/Component_development2/imgs/bar.png) 
   
 #### 注意事项
   1.text目录为组件开发时候的测试文件<br/>
